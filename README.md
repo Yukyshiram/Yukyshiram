@@ -23,3 +23,7 @@
 
 - Mi pagina web [CX Project](https://jesscx.boxmineworld.com/)
 
+<div align="center">
+    <h3>my life is based on:</h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.JS" alt="Node" width="50" height="50"/>
+</div>
