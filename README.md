@@ -27,7 +27,7 @@
 
 <div align="center">
     <h3>my life is based on:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.JS" alt="Node" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.JS" alt="Node" width="150" height="150"/>
 </div>
 
 ---
@@ -38,3 +38,4 @@
 
 ![Yukyshiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukyshiram&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukyshiram&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
