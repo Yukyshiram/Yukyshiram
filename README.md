@@ -4,7 +4,7 @@
     <h3>Soy un humilde desarrollador web que le sonrie a la vida</h3>
 </div>
 <div id="badges" align="center">
-    <a href="https://twitter.com/Sr_Courtesy" target="_blank">
+    <a href="https://twitter.com/Im_JVallejo" target="_blank">
         <img src="https://img.shields.io/twitter/follow/Sr_Courtesy?color=blue&logo=twitter&style=flat-square" alt="twitter Badge">
     </a>
 </div>
